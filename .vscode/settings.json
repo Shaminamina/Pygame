@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "blit",
+        "centerx",
+        "collidepoint",
+        "DOUBLEBUF",
+        "FULLSCREEN",
+        "HWSURFACE",
+        "KEYDOWN",
+        "MOUSEBUTTONDOWN",
+        "MOUSEBUTTONUP",
+        "MOUSEMOTION",
+        "pygame",
+        "Shaminamina",
+        "vsync"
+    ]
+}
